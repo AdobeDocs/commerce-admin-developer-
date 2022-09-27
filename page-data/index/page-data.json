@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-index-md",
-    "path": "/",
-    "result": {"pageContext":{"frontmatter":{"title":"Overview - Adobe Analytics","description":"This is the overview page of Adobe Analytics","contributors":["https://github.com/icaraps"]}}},
-    "staticQueryHashes": ["915530536"]}
+{"componentChunkName":"component---src-pages-index-md","path":"/","result":{"pageContext":{"frontmatter":{"title":"Commerce Admin Development","description":"Review resources for customizing the Adobe Commerce and Magento Open Source Admin application."}}},"staticQueryHashes":["915530536"]}
