@@ -1,0 +1,25 @@
+{
+  "templateVersion": "0.2",
+  "product": {
+    "name": "Commerce - Admin",
+    "description": "Source files for the Commerce Admin Developer guide."
+  },
+  "contacts": {
+    "team": {
+      "name": "Commerce Docs",
+      "DL": "Grp-commerce-docs",
+      "slackChannel": "#commerce-docs"
+    }
+  },
+  "ticketTracker": {
+    "functionalJiraQueue": {
+        "projectKey": "COMDOX",
+        "component": "Maintenance"
+    },
+    "securityJiraQueue": {
+        "projectKey": "MAGREQ",
+        "component": "Commerce M2"
+    }
+  },  
+  "productionCodeBranches": ["main"]
+}
